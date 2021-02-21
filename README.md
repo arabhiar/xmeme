@@ -9,7 +9,7 @@ First of all you need to install node.
 Then clone the repository
 
 ```bash
-cd abhishekrotary2002-me_buildout_xmeme    # move to cloned project
+cd xmeme    # move to cloned project
 ```
 
 For frontend
